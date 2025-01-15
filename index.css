@@ -87,3 +87,34 @@ Need help? Visit this page: https://scrimba.com/links/bbc-news-solo-project-hint
 
 WRITE YOUR CODE BELOW 👇
 */
+
+@media (min-width: 740px) {
+  .featured-article {
+    grid-column: 1 / span 3;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 1em;
+  }
+}
+
+@media (min-width: 880px) {
+  main {
+    display: grid;
+    grid-template-columns: repeat(4, minmax(200px, 1fr));
+    grid-template-rows: 1fr auto 1fr;
+    gap: 1em;
+  }
+
+  .featured-article-text {
+    grid-column: 1;
+  }
+
+  .featured-article-img {
+    grid-column: 2 / span 2;
+  }
+
+  .second-row {
+    grid-row: 2;
+    grid-column: 1 / -1;
+  }
+}
