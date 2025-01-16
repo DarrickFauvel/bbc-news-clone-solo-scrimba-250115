@@ -1,7 +1,7 @@
 # BBC News Clone - Solo Project
 My CSS grid challenge solution for the Scrimba Solo Project "BBC News Clone".
 
-![Project Screenshot](link-to-screenshot-or-demo.gif)
+![Project Screenshot](https://github.com/DarrickFauvel/bbc-news-clone-solo-scrimba-250115/blob/main/screenshot-desktop.png)
 
 ---
 
