@@ -1,5 +1,5 @@
 # BBC News Clone - Solo Project
-My CSS grid challenge solution for the Scrimba Solo Project "BBC News Clone".
+My CSS grid challenge solution for the Scrimba Solo Project: BBC News Clone.
 
 ![Project Screenshot](https://github.com/DarrickFauvel/bbc-news-clone-solo-scrimba-250115/blob/main/screenshot-desktop.png)
 
@@ -24,9 +24,10 @@ My CSS grid challenge solution for the Scrimba Solo Project "BBC News Clone".
 Solve the CSS grid challenge presented in the BBC News Clone solo project. 
 
 ### Scrimba Course Reference  
-The specific Scrimba course related to this Solo Project (PRO) is "BBC News Clone". It can be found at https://scrimba.com/s04vckm.
+The specific Scrimba course related to this Solo Project (PRO) is "BBC News Clone". It can be found at [Solo Project (PRO) - BBC New Clone](https://scrimba.com/s04vckm).
 
-A Scrimba "Solo Project" is a self-guided project that requires the learner to complete the project on their own based on the instructions and project requirements given at the starting point.
+### What is a Solo Project?
+A self-guided project that requires the learner to complete the project on their own based on the instructions and project requirements given at the start.
 
 ---
 
@@ -60,6 +61,7 @@ A Scrimba "Solo Project" is a self-guided project that requires the learner to c
 ---
 
 ## 🚧 Challenges and Learning  
-- Challenge: Handling CSS grid layout.
-- Solution: Implemented repeating grid-template-columns that used an automatic minimum and maximum width. Also included a grid within grid layout for the featured article.
-- Beyond the solution: Implemented media queries to respond to both mobile and desktop views.
+
+| Challenge: | Handling CSS grid layout. |
+| Solution: | Implemented repeating grid-template-columns that used an automatic minimum and maximum width. Also included a grid within grid layout for the featured article. |
+| Beyond the solution: | Implemented media queries to respond to both mobile and desktop views. |
