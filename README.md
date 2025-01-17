@@ -62,6 +62,10 @@ A self-guided project that requires the learner to complete the project on their
 
 ## 🚧 Challenges and Learning  
 
-| Challenge: | Handling CSS grid layout. |
-| Solution: | Implemented repeating grid-template-columns that used an automatic minimum and maximum width. Also included a grid within grid layout for the featured article. |
-| Beyond the solution: | Implemented media queries to respond to both mobile and desktop views. |
+- **Challenge:** Handling CSS grid layout.
+
+- **Solution:**\
+Implemented repeating grid-template-columns that used an automatic minimum and maximum width. Also included a grid within grid layout for the featured article.
+
+- **Beyond the solution:**\
+Implemented media queries to respond to both mobile and desktop views.
